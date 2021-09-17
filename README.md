@@ -1,3 +1,3 @@
 # Intro-NLP-Kaggle
 
-Text Analysis
+Sentiment Analysis
