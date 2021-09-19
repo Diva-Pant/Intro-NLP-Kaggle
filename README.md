@@ -1,3 +1,3 @@
 # Intro-NLP-Kaggle
 
-Sentiment Analysis
+Word Vectors
